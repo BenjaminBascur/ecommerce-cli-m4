@@ -19,3 +19,6 @@ Aplicación de consola en Java para la gestión de productos y ventas en "Temuco
 2. Selecciona **Agregar al carrito** con el ID del producto y la cantidad.
 3. Elige **Ver mi carrito** para validar los ítems.
 4. Selecciona **Confirmar compra** para ver el resumen con el descuento aplicado.
+
+Link Repositorio:
+https://github.com/BenjaminBascur/ecommerce-cli-m4
